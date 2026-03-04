@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Noorfatima Peerzade an aspiring techie👋
 
 <!--
 **NoorfatimaPeerzade/NoorfatimaPeerzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
